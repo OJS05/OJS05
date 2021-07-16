@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋 I'm a student learning Java and an avid Minecrafter.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OJS05)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **OJS05/OJS05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
